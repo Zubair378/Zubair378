@@ -7,10 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-zubair-tariq.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zubair-tariq-6154a1294)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zubairtari237@gmail.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019cde60-739d-714c-842d-f637eb824677)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Zubair378&label=Profile%20Views&color=1f6feb&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Zubair378?style=flat-square&color=1f6feb)
 
 </div>
 
@@ -37,22 +33,45 @@ fun_fact:    Built a 2D maze game in x86 Assembly AND a Web3 sports club platfor
 
 ## 💼 Experience
 
-### 🧠 Research Intern: Neuroimaging Research Group, Air University, Islamabad
-`Jul 2026 – Aug 2026` · On-site · Islamabad, Pakistan
+<table>
+<tr>
+<td width="100%">
+
+### 🧠 Research Intern · Neuroimaging Research Group, Air University
+![Jul 2026 – Aug 2026](https://img.shields.io/badge/Jul_2026_–_Aug_2026-1f6feb?style=flat-square) ![On-site](https://img.shields.io/badge/On--site-Islamabad-555?style=flat-square)
+
 - Engineered a **machine learning feature pipeline for Brain-Computer Interface (BCI) decoding** using **Riemannian geometry (tangent-space features)** and **logistic regression**.
 - **Co-authored research** showing that standard domain-alignment techniques fail to overcome conditional-distribution mismatches in distant **P300 paradigms**, exposing weaknesses in naive transfer-learning approaches.
-- Skills: `AI/ML` `Data Analysis` `Data Cleaning` `Algorithm Design` `Research`
 
-### ⚙️ DevOps Engineer Intern: Parallax Lab
-`3 months`
+![AI/ML](https://img.shields.io/badge/AI/ML-8A2BE2?style=flat-square) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-2E86C1?style=flat-square) ![Algorithm Design](https://img.shields.io/badge/Algorithm_Design-16A085?style=flat-square) ![Research](https://img.shields.io/badge/Research-E67E22?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### ⚙️ DevOps Engineer Intern · Parallax Lab
+![3 months](https://img.shields.io/badge/Duration-3_months-1f6feb?style=flat-square)
+
 - Built and containerized independent **Flask microservices** with optimized **multi-stage Docker images**.
 - Set up **Nginx as a reverse proxy** with Docker Compose in front of a Flask backend.
-- Worked in a **WSL2 (Ubuntu)** environment with `Docker`, `kubectl`, `Terraform` and `Helm`.
-- 🔗 Work: [Devops-internship](https://github.com/Zubair378/Devops-internship) · [Docker-reverse-proxy](https://github.com/Zubair378/Docker-reverse-proxy)
+- Worked in **WSL2 (Ubuntu)** with `Docker`, `kubectl`, `Terraform` and `Helm`.
 
-### 🌐 Web Developer Intern: DevelopersHub Corporation
-`Jul 2025 – Sep 2025` · Islamabad, Pakistan
+[![Devops-internship](https://img.shields.io/badge/Repo-Devops--internship-181717?style=flat-square&logo=github)](https://github.com/Zubair378/Devops-internship) [![Docker-reverse-proxy](https://img.shields.io/badge/Repo-Docker--reverse--proxy-181717?style=flat-square&logo=github)](https://github.com/Zubair378/Docker-reverse-proxy)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🌐 Web Developer Intern · DevelopersHub Corporation
+![Jul 2025 – Sep 2025](https://img.shields.io/badge/Jul_2025_–_Sep_2025-1f6feb?style=flat-square) ![Islamabad](https://img.shields.io/badge/Islamabad-Pakistan-555?style=flat-square)
+
 - 3-month web development internship focused on hands-on, practical development work.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -61,11 +80,11 @@ fun_fact:    Built a 2D maze game in x86 Assembly AND a Web3 sports club platfor
 | | |
 |---|---|
 | 🔨 **Building** | Security-first, automated pipelines, an AI-powered SOC dashboard, and Web3 applications |
-| 🛡️ **Practicing** | Threat detection, log analysis, incident response, Hack The Box labs |
+| 🛡️ **Practicing** | Threat detection, log analysis, incident response and hands-on security labs |
 | 🤖 **Exploring** | AI agents, RAG systems and AI-powered tools for security automation |
 | 🌱 **Learning** | SIEM, threat hunting, Kubernetes, IaC security, AWS, Web3 security |
 | 🤝 **Collaborating on** | DevSecOps, SOC/detection projects, AI/ML for security, CTF teams, open-source security tools |
-| 💬 **Ask me about** | DevSecOps, blue team ops, Hack The Box, C++, x86 Assembly, secure e-commerce design |
+| 💬 **Ask me about** | DevSecOps, blue team ops, C++, x86 Assembly, secure e-commerce design |
 
 ---
 
@@ -73,44 +92,62 @@ fun_fact:    Built a 2D maze game in x86 Assembly AND a Web3 sports club platfor
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
-### ⚙️ DevSecOps
-- Secure CI/CD pipelines
-- Docker & Nginx
-- Terraform (IaC)
-- Secret scanning (Gitleaks)
-- Vulnerability scanning (Trivy)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-1f6feb?style=for-the-badge&logo=docker&logoColor=white)
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
-### 🛡️ SOC & Blue Team
-- Alert triage & log analysis
-- Threat hunting
-- Incident response
-- Detection engineering
-- AI-assisted SOC dashboards
+![SOC](https://img.shields.io/badge/SOC_%26_Blue_Team-C0392B?style=for-the-badge&logo=splunk&logoColor=white)
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
-### 🤖 AI / ML
-- BCI decoding research
-- Multi-agent systems (LangGraph)
-- RAG pipelines
-- Python for automation
-- AI security
+![AI/ML](https://img.shields.io/badge/AI_/_ML-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
-### ⛓️ Web3 & Full-Stack
-- Solidity / ERC-721
-- Gasless relayer architecture
-- MetaMask & Ethers.js
-- React, Node.js, Express
-- Secure web development
+![Web3](https://img.shields.io/badge/Web3_%26_Full--Stack-F16822?style=for-the-badge&logo=ethereum&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+🔹 Secure CI/CD pipelines<br>
+🔹 Docker & Nginx<br>
+🔹 Terraform (IaC)<br>
+🔹 Secret scanning (Gitleaks)<br>
+🔹 Vulnerability scanning (Trivy)
+
+</td>
+<td valign="top">
+
+🔸 Alert triage & log analysis<br>
+🔸 Threat hunting<br>
+🔸 Incident response<br>
+🔸 Detection engineering<br>
+🔸 AI-assisted SOC dashboards
+
+</td>
+<td valign="top">
+
+🟣 BCI decoding research<br>
+🟣 Multi-agent systems (LangGraph)<br>
+🟣 RAG pipelines<br>
+🟣 Python for automation<br>
+🟣 AI security
+
+</td>
+<td valign="top">
+
+🟠 Solidity / ERC-721<br>
+🟠 Gasless relayer architecture<br>
+🟠 MetaMask & Ethers.js<br>
+🟠 React, Node.js, Express<br>
+🟠 Secure web development
 
 </td>
 </tr>
@@ -122,56 +159,262 @@ fun_fact:    Built a 2D maze game in x86 Assembly AND a Web3 sports club platfor
 
 ### ⛓️ Web3
 
-| Project | Stack | What it does |
-|---|---|---|
-| **[MetaSpace](https://github.com/Zubair378/metaspace-backend)** | `Solidity` `Node.js` `Express` `Ethers.js` | Gasless Web3 gaming relayer. A backend server signs transactions so players can claim in-game ERC-721 NFT rewards with zero gas fees, using role-based contract access control on the Sepolia testnet. |
-| **[ClubConnect](https://github.com/Zubair378/Sports-and-club-management-system)** · [🌐 Live](https://clubconnect-sports.netlify.app/) | `HTML` `CSS` `JavaScript` `MetaMask` | All-in-one management platform for football, cricket, basketball and hockey clubs with multi-role dashboards, leaderboards and blockchain payments via MetaMask. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⛓️ MetaSpace**<br>
+<sub>Gasless Web3 gaming relayer</sub>
+
+A backend server signs transactions so players can claim in-game ERC-721 NFT rewards with **zero gas fees**, using role-based contract access control on the Sepolia testnet.
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white) ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zubair378/metaspace-backend)
+
+</td>
+<td width="50%" valign="top">
+
+**🏆 ClubConnect**<br>
+<sub>Sports club management platform</sub>
+
+All-in-one platform for football, cricket, basketball and hockey clubs with **multi-role dashboards, leaderboards** and blockchain payments via MetaMask.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=flat-square&logo=metamask&logoColor=white)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zubair378/Sports-and-club-management-system) [![Live](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://clubconnect-sports.netlify.app/)
+
+</td>
+</tr>
+</table>
 
 ### 🤖 AI & Automation
 
-| Project | Stack | What it does |
-|---|---|---|
-| **[Aegis Research](https://github.com/Zubair378/Ai-research-and-report-writer-multi-agent)** · [🌐 Live](https://ai-research-and-report-writer-multi.vercel.app) | `Python` `LangGraph` `Groq (Llama 3.3 70B)` `Tavily` | Multi-agent research assistant (Planner → Researcher → Critic → Writer) that researches a topic live and writes a structured report with real cited sources. Includes a dashboard and PDF/Markdown export. |
-| **[Admission Bot](https://github.com/Zubair378/Admission-bot)** | `Python` `RAG` `Gmail API` `Google Sheets` | RAG-powered admissions email assistant. Answers only from an approved knowledge base and escalates anything uncertain to staff, so it never fabricates fees or dates. |
-| **[SOC Automated Dashboard](https://github.com/Zubair378/SOC-automated-Dashboard)** | `AI` `Security Automation` | AI-powered Security Operations Center dashboard for automated log ingestion, alert triage and incident response. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔬 Aegis Research**<br>
+<sub>Multi-agent AI research assistant</sub>
+
+Planner → Researcher → Critic → Writer. Researches a topic live on the web and writes a structured report with **real cited sources**, with a dashboard and PDF/Markdown export.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq_Llama_3.3-F55036?style=flat-square) ![Tavily](https://img.shields.io/badge/Tavily-6C47FF?style=flat-square)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zubair378/Ai-research-and-report-writer-multi-agent) [![Live](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-research-and-report-writer-multi.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+**📧 Admission Bot**<br>
+<sub>RAG-powered admissions email assistant</sub>
+
+Answers admissions emails **only from an approved knowledge base** and escalates anything uncertain to staff, so it never fabricates fees or dates.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square) ![Gmail API](https://img.shields.io/badge/Gmail_API-EA4335?style=flat-square&logo=gmail&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zubair378/Admission-bot)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🛡️ SOC Automated Dashboard**<br>
+<sub>AI-powered Security Operations Center</sub>
+
+Dashboard for **automated log ingestion, alert triage and incident response**, powered by AI.
+
+![AI](https://img.shields.io/badge/AI-8A2BE2?style=flat-square) ![Security Automation](https://img.shields.io/badge/Security_Automation-C0392B?style=flat-square) ![SOC](https://img.shields.io/badge/SOC-1f6feb?style=flat-square)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zubair378/SOC-automated-Dashboard)
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
 
 ### 🔐 DevSecOps & Infrastructure
 
-| Project | Stack | What it does |
-|---|---|---|
-| **[Secure DevOps Pipeline](https://github.com/Zubair378/Secure-devops-pipeline)** | `Flask` `Terraform (AWS)` `Gitleaks` `Trivy` | Shift-left security demo. An intentionally vulnerable Flask app and insecure Terraform (S3/SSH) are caught by automated Gitleaks and Trivy pre-commit scanning, which blocks the commit. |
-| **[DevOps Internship](https://github.com/Zubair378/Devops-internship)** | `Flask` `Docker` `WSL2` `kubectl` `Terraform` `Helm` | Two independent Flask microservices (frontend and backend) with optimized multi-stage Docker builds. |
-| **[Docker Reverse Proxy](https://github.com/Zubair378/Docker-reverse-proxy)** | `Docker Compose` `Nginx` `Flask` | Nginx as the single public entry point forwarding traffic to a Flask backend that never receives outside traffic directly. |
-| **[Multi-Area Network Design](https://github.com/Zubair378/Multi-Area-Network-Design-Implementation)** | `Cisco Packet Tracer` `OSPF` `EIGRP` `RIPv2` | Enterprise network with 11 VLSM-subnetted networks, multi-protocol routing with route redistribution, centralized DHCP, SMTP/POP3 and DNS, static NAT and extended ACLs. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔐 Secure DevOps Pipeline**<br>
+<sub>Shift-left security demo</sub>
+
+An intentionally vulnerable Flask app and insecure Terraform (S3/SSH) are caught by automated **Gitleaks and Trivy pre-commit scanning**, which blocks the commit.
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat-square&logo=terraform&logoColor=white) ![Gitleaks](https://img.shields.io/badge/Gitleaks-DF3E31?style=flat-square) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zubair378/Secure-devops-pipeline)
+
+</td>
+<td width="50%" valign="top">
+
+**🐳 DevOps Internship**<br>
+<sub>Containerized Flask microservices</sub>
+
+Two independent Flask microservices (frontend and backend) with **optimized multi-stage Docker builds**.
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![WSL2](https://img.shields.io/badge/WSL2-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zubair378/Devops-internship)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔀 Docker Reverse Proxy**<br>
+<sub>Nginx in front of a Flask backend</sub>
+
+Nginx is the **single public entry point**, forwarding traffic to a Flask backend that never receives outside traffic directly.
+
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-0db7ed?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zubair378/Docker-reverse-proxy)
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 Multi-Area Network Design**<br>
+<sub>Enterprise network in Cisco Packet Tracer</sub>
+
+**11 VLSM-subnetted networks**, multi-protocol routing with route redistribution, centralized DHCP, SMTP/POP3 and DNS, static NAT and extended ACLs.
+
+![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![OSPF](https://img.shields.io/badge/OSPF-2E86C1?style=flat-square) ![EIGRP](https://img.shields.io/badge/EIGRP-16A085?style=flat-square) ![RIPv2](https://img.shields.io/badge/RIPv2-E67E22?style=flat-square)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zubair378/Multi-Area-Network-Design-Implementation)
+
+</td>
+</tr>
+</table>
 
 ### 🧱 Systems, C++ & Assembly
 
-| Project | Stack | What it does |
-|---|---|---|
-| **[Dizzy Walk](https://github.com/Zubair378/Dizzy-walk)** | `x86 Assembly (MASM32)` | 2D maze adventure with automated and keyboard-controlled pathfinding, obstacle collision, coin collection and file-based audit logging. |
-| **[SecureShop](https://github.com/Zubair378/Secure-shop)** | `C++` | Console e-commerce system with role-based login (Admin, Employee, Customer), OTP second factor for admins, encrypted passwords, cart, wishlist, promo codes and audit records. |
-| **[OSIM](https://github.com/Zubair378/OSIM--Organizational-Simulation)** | `C++` `OOP` | Organizational simulator with OTP login, role-based access control across 5 roles, task delegation, internal messaging and audit logging. |
-| **[Chat Application](https://github.com/Zubair378/Chat-Application-with-Socket-Programming)** | `C++` `TCP/UDP Sockets` | Multi-client chat system with authentication, direct messages, broadcasts, file transfer, history and status updates. |
-| **[Xonix Game](https://github.com/Zubair378/Xonix-game-)** | `C++` `SFML` | Classic Xonix arcade game recreated using data structure concepts, with collision detection and progressive difficulty. |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🌐 Portfolio
+**🎮 Dizzy Walk**<br>
+<sub>2D maze adventure in x86 Assembly</sub>
 
-| Project | Stack | What it does |
-|---|---|---|
-| **[Portfolio](https://github.com/Zubair378/Portfolio)** · [🌐 Live](https://portfolio-zubair-tariq.vercel.app/) | `React` `TypeScript` `GSAP` `Three.js` | My personal portfolio website. |
+Automated and keyboard-controlled **pathfinding**, obstacle collision, coin collection and file-based audit logging.
+
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-000000?style=flat-square&logo=assemblyscript&logoColor=white) ![MASM32](https://img.shields.io/badge/MASM32-6E4C1E?style=flat-square)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zubair378/Dizzy-walk)
+
+</td>
+<td width="50%" valign="top">
+
+**🛒 SecureShop**<br>
+<sub>Secure console e-commerce system</sub>
+
+Role-based login (Admin, Employee, Customer), **OTP second factor for admins**, encrypted passwords, cart, wishlist, promo codes and audit records.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![OTP](https://img.shields.io/badge/OTP_2FA-C0392B?style=flat-square) ![RBAC](https://img.shields.io/badge/RBAC-1f6feb?style=flat-square)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zubair378/Secure-shop)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏢 OSIM**<br>
+<sub>Organizational simulation system</sub>
+
+OTP login, **role-based access control across 5 roles**, task delegation, internal messaging and audit logging.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-8A2BE2?style=flat-square) ![RBAC](https://img.shields.io/badge/RBAC-1f6feb?style=flat-square)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zubair378/OSIM--Organizational-Simulation)
+
+</td>
+<td width="50%" valign="top">
+
+**💬 Chat Application**<br>
+<sub>Multi-client TCP/UDP chat</sub>
+
+Authentication, **direct messages, broadcasts, file transfer**, chat history and status updates.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![TCP/UDP](https://img.shields.io/badge/TCP%2FUDP_Sockets-2E86C1?style=flat-square)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zubair378/Chat-Application-with-Socket-Programming)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**👾 Xonix Game**<br>
+<sub>Classic arcade game in C++</sub>
+
+Recreated using **data structure concepts**, with collision detection and progressive difficulty levels.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square) ![Data Structures](https://img.shields.io/badge/Data_Structures-16A085?style=flat-square)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zubair378/Xonix-game-)
+
+</td>
+<td width="50%" valign="top">
+
+**🌟 Portfolio**<br>
+<sub>Personal portfolio website</sub>
+
+Interactive personal website built with **React, TypeScript, GSAP and Three.js**.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zubair378/Portfolio) [![Live](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-zubair-tariq.vercel.app/)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Highlights
 
-| | |
-|---|---|
-| 📄 **Research** | Co-authored research on transfer learning for P300 Brain-Computer Interfaces at Air University's Neuroimaging Research Group |
-| 💼 **Internships** | 3 completed: DevOps Engineer (Parallax Lab), Research (Air University), Web Developer (DevelopersHub) |
-| 🧩 **Hack The Box** | Practicing blue-team and offensive skills hands-on as `zubair32514`: [view my profile](https://profile.hackthebox.com/profile/019cde60-739d-714c-842d-f637eb824677) |
-| 🚩 **CTFs** | Regular CTF competitor, always open to team-ups |
-| 🌍 **Shipped** | Live deployed projects: ClubConnect, Aegis Research and my portfolio |
-| 📦 **Open source** | 15 public repositories across security, DevOps, AI, Web3 and systems programming |
+<div align="center">
+
+![Internships](https://img.shields.io/badge/Internships-3-1f6feb?style=for-the-badge) ![Repositories](https://img.shields.io/badge/Public_Repos-15-8A2BE2?style=for-the-badge) ![Live](https://img.shields.io/badge/Live_Projects-3-00C853?style=for-the-badge) ![Research](https://img.shields.io/badge/Co--authored_Research-BCI-E67E22?style=for-the-badge)
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+📄 **Research**<br>
+Co-authored research on transfer learning for P300 Brain-Computer Interfaces at Air University
+
+</td>
+<td width="50%" valign="top">
+
+💼 **Internships**<br>
+DevOps Engineer (Parallax Lab), Research (Air University), Web Developer (DevelopersHub)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🌍 **Shipped**<br>
+Live deployed projects: ClubConnect, Aegis Research and my portfolio
+
+</td>
+<td width="50%" valign="top">
+
+🚩 **CTFs**<br>
+Regular CTF competitor, always open to team-ups
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -298,7 +541,7 @@ I'm **open to internships, entry-level roles, collaborations and CTF team-ups**,
 
 <div align="center">
 
-📧 **zubairtari237@gmail.com** &nbsp;|&nbsp; 🌐 [Portfolio](https://portfolio-zubair-tariq.vercel.app/) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/zubair-tariq-6154a1294) &nbsp;|&nbsp; 🧩 [Hack The Box](https://profile.hackthebox.com/profile/019cde60-739d-714c-842d-f637eb824677)
+[![Email](https://img.shields.io/badge/zubairtari237@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zubairtari237@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-zubair-tariq.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zubair-tariq-6154a1294)
 
 *"Building things that are not just functional, but safe."* 🔐
 
