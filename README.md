@@ -22,11 +22,11 @@ My goal is to become a **Security Engineer who bridges development and security*
 name:        Zubair Tariq
 location:    Islamabad, Pakistan 🇵🇰
 studying:    BS Cyber Security @ FAST NUCES (2024 – 2028)
-experience:  [DevOps Engineer Intern, AI/ML Research Intern, Web Developer Intern]
+experience:  [AI/ML Research Intern, DevOps Engineer Intern, Web Developer Intern]
 focus:       [DevSecOps, SOC / Blue Team, AI for Security, Web3]
 contact:     zubairtari237@gmail.com
 open_to:     [internships, entry-level roles, collaborations, CTF team-ups]
-fun_fact:    Built a 2D maze game in x86 Assembly AND a Web3 sports club platform
+fun_fact:    Comfortable debugging a buffer overflow in x86 Assembly and shipping a RAG pipeline the same week
 ```
 
 ---
@@ -153,6 +153,8 @@ fun_fact:    Built a 2D maze game in x86 Assembly AND a Web3 sports club platfor
 </tr>
 </table>
 
+**These aren't four separate interests — they're one skill set applied at different layers.** The SOC Automated Dashboard is AI/ML pointed at blue-team work. The Secure DevOps Pipeline is what keeps that dashboard's own infrastructure honest before it ships. MetaSpace and ClubConnect apply the same "secure by design" habit to a Web3/full-stack context. Same instinct, different surface.
+
 ---
 
 ## 🚀 Featured Projects
@@ -231,6 +233,16 @@ Dashboard for **automated log ingestion, alert triage and incident response**, p
 
 </td>
 <td width="50%" valign="top">
+
+**🩺 MediScan AI**<br>
+<sub>Full-stack AI health screening platform (team project)</sub>
+
+Integrated clinical decision-support system combining **chest X-ray analysis** (ViT + DenseNet-121), **skin disease classification** (ViT), **diabetes risk prediction** (Logistic Regression) and **mental health screening** (DistilRoBERTa) behind one custom triage engine. Built with [Abdul Moiz](https://www.linkedin.com/in/abdulmoiz-in/).
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+[![Live Web](https://img.shields.io/badge/Live_Web_App-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://lnkd.in/d4X76J57) [![Mobile APK](https://img.shields.io/badge/Mobile_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://lnkd.in/dRTja6jc)
+
 </td>
 </tr>
 </table>
@@ -381,7 +393,7 @@ Interactive personal website built with **React, TypeScript, GSAP and Three.js**
 
 <div align="center">
 
-![Internships](https://img.shields.io/badge/Internships-3-1f6feb?style=for-the-badge) ![Repositories](https://img.shields.io/badge/Public_Repos-15-8A2BE2?style=for-the-badge) ![Live](https://img.shields.io/badge/Live_Projects-3-00C853?style=for-the-badge) ![Research](https://img.shields.io/badge/Co--authored_Research-BCI-E67E22?style=for-the-badge)
+![Internships](https://img.shields.io/badge/Internships-3-1f6feb?style=for-the-badge) ![Repositories](https://img.shields.io/badge/Public_Repos-15-8A2BE2?style=for-the-badge) ![Live](https://img.shields.io/badge/Live_Projects-4-00C853?style=for-the-badge) ![Research](https://img.shields.io/badge/Co--authored_Research-BCI-E67E22?style=for-the-badge) ![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-Cyborts-C0392B?style=for-the-badge) ![Workshop](https://img.shields.io/badge/Workshop_Feedback-98%25_Positive-8A2BE2?style=for-the-badge)
 
 </div>
 
@@ -404,13 +416,27 @@ DevOps Engineer (Parallax Lab), Research (Air University), Web Developer (Develo
 <td width="50%" valign="top">
 
 🌍 **Shipped**<br>
-Live deployed projects: ClubConnect, Aegis Research and my portfolio
+Live deployed projects: ClubConnect, Aegis Research, MediScan AI and my portfolio
 
 </td>
 <td width="50%" valign="top">
 
 🚩 **CTFs**<br>
 Regular CTF competitor, always open to team-ups
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🐛 **Bug Bounty**<br>
+Identified and responsibly disclosed a Directory Listing Enabled misconfiguration in the WordPress uploads directory during [Cyborts'](https://cyborts.com) public bug bounty program → [write-up](https://www.linkedin.com/posts/zubair-tariq-6154a1294_cybersecurity-bugbounty-ethicalhacking-activity-7461492555264880640-U4DP)
+
+</td>
+<td width="50%" valign="top">
+
+🎓 **Community Training**<br>
+Co-facilitated Web Exploitation & OSINT at a 3-day cybersecurity workshop with team RDX at Namal University, Mianwali — **98% positive participant feedback** → [write-up](https://www.linkedin.com/posts/zubair-tariq-6154a1294_cybersecurity-ctf-webexploitation-activity-7417232222572732416-fjdp)
 
 </td>
 </tr>
