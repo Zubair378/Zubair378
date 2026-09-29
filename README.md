@@ -237,7 +237,7 @@ Dashboard for **automated log ingestion, alert triage and incident response**, p
 **🩺 MediScan AI**<br>
 <sub>Full-stack AI health screening platform (team project)</sub>
 
-Integrated clinical decision-support system combining **chest X-ray analysis** (ViT + DenseNet-121), **skin disease classification** (ViT), **diabetes risk prediction** (Logistic Regression) and **mental health screening** (DistilRoBERTa) behind one custom triage engine. Built with [Abdul Moiz](https://www.linkedin.com/in/abdulmoiz-in/).
+Integrated clinical decision-support system combining **chest X-ray analysis** (ViT + DenseNet-121), **skin disease classification** (ViT), **diabetes risk prediction** (Logistic Regression) and **mental health screening** (DistilRoBERTa) behind one custom triage engine. Built with Nabiha Nasir and Abdul Moiz.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
@@ -393,7 +393,7 @@ Interactive personal website built with **React, TypeScript, GSAP and Three.js**
 
 <div align="center">
 
-![Internships](https://img.shields.io/badge/Internships-3-1f6feb?style=for-the-badge) ![Repositories](https://img.shields.io/badge/Public_Repos-15-8A2BE2?style=for-the-badge) ![Live](https://img.shields.io/badge/Live_Projects-4-00C853?style=for-the-badge) ![Research](https://img.shields.io/badge/Co--authored_Research-BCI-E67E22?style=for-the-badge) ![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-Cyborts-C0392B?style=for-the-badge) ![Workshop](https://img.shields.io/badge/Workshop_Feedback-98%25_Positive-8A2BE2?style=for-the-badge)
+![Internships](https://img.shields.io/badge/Internships-3-1f6feb?style=for-the-badge) ![Repositories](https://img.shields.io/badge/Public_Repos-15-8A2BE2?style=for-the-badge) ![Live](https://img.shields.io/badge/Live_Projects-4-00C853?style=for-the-badge) ![Research](https://img.shields.io/badge/Co--authored_Research-BCI-E67E22?style=for-the-badge) ![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-Cyborts-C0392B?style=for-the-badge) ![Workshop](https://img.shields.io/badge/Workshop_Feedback-98%25_Positive-8A2BE2?style=for-the-badge) ![RDX CTF](https://img.shields.io/badge/RDX_CTF-146_Participants-1f6feb?style=for-the-badge)
 
 </div>
 
@@ -437,6 +437,20 @@ Identified and responsibly disclosed a Directory Listing Enabled misconfiguratio
 
 🎓 **Community Training**<br>
 Co-facilitated Web Exploitation & OSINT at a 3-day cybersecurity workshop with team RDX at Namal University, Mianwali — **98% positive participant feedback** → [write-up](https://www.linkedin.com/posts/zubair-tariq-6154a1294_cybersecurity-ctf-webexploitation-activity-7417232222572732416-fjdp)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🩺 **MediScan AI**<br>
+Co-built a full-stack AI health screening platform with Nabiha Nasir and Abdul Moiz — four clinical AI models (X-ray, skin, diabetes, mental health) unified behind one triage engine, shipped to a live web app and Android APK → [live app](https://lnkd.in/d4X76J57)
+
+</td>
+<td width="50%" valign="top">
+
+🚩 **RDX CTF — Organizer**<br>
+Co-organized a national-level Capture The Flag competition with team RDX — **146 participants, 56 teams, 28 custom-designed challenges** across universities in Pakistan. Designed and deployed the MISC & Web Exploitation challenges, and ran participant data/platform coordination.
 
 </td>
 </tr>
